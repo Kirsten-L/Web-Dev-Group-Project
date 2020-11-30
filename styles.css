@@ -55,17 +55,22 @@
 	color: #01B2D1;
 }
 .primary_header {
-	width: 100%;
+	width: 1350px;
+	text-align: center;
 	background-color: #52bad5;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
 	clear: left;
 	border-bottom: 2px solid #2C9AB7;
 }
 .secondary_header {
 	width: 100%;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	height: 75px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
 	background-color: #B3B3B3;
 	clear: left;
 }
@@ -460,7 +465,7 @@ body {
 
 /* Dropdown Button */
 .dropbtn {
-  background-color: #4CAF50;
+  background-color: #B3B3B3;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -492,10 +497,10 @@ body {
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #ddd;}
+.dropdown-content a:hover {background-color: #white;}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #52bad5;}
