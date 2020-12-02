@@ -504,3 +504,13 @@ body {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #52bad5;}
+
+.footer {
+	text-align: center;
+	background-color: #52bad5;
+	color: white;
+	padding-left: 40px;
+	padding-right:40px;
+	padding-top:15px;
+	padding-bottom:15px;
+}
