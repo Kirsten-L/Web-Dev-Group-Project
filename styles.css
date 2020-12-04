@@ -557,6 +557,26 @@ body {
 	
 }
 
+#rightPanel2 {
+	float: right;
+	height:960px;
+	padding: 20px;
+}
+
+#leftPanel2 {
+	height:960px;	
+}
+
+#rightPanel3 {
+	float: right;
+	height:675px;
+	padding: 20px;
+}
+
+#leftPanel3 {
+	height:675px;	
+}
+
 .articleTable td{
 	padding:5px;
 	border-style: solid;
@@ -566,6 +586,27 @@ body {
 .lsherr {
 	padding-top: 47px;
 	padding-left: 20px;
+}
+
+.nellyimg {
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.video1 {
+	padding-left: 20px;
+}
+
+.watch1 {
+	padding-left: 20px;
+}
+
+.imgcomp3 {
+	padding-left: 100px;
+}
+
+.dedication {
+	text-align: center;
 }
 
 .holoimg {
