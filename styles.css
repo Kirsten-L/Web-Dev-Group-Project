@@ -512,7 +512,7 @@ body {
 	background-color: #52bad5;
 	color: white;
 	padding-left: 0px;
-	padding-right:40px;
+	padding-right:0px;
 	padding-top:15px;
 	padding-bottom:15px;
 }
@@ -546,3 +546,28 @@ body {
 #row2 {
 	background-color:#B3B3B3;
 }
+
+#rightPanel {
+	float: right;
+	height:960px;
+}
+
+#leftPanel {
+	height:960px;
+	
+}
+
+.articleTable td{
+	padding:5px;
+	border-style: solid;
+	border-collapse: collapse;
+}
+
+.lsherr {
+	padding-top: 47px;
+	padding-left: 20px;
+}
+
+.holoimg {
+	padding-top: 0px;
+	padding-left: 0px;
