@@ -577,6 +577,25 @@ body {
 	height:675px;	
 }
 
+#rightPanel4 {
+	float: right;
+	height:730px;
+	padding: 20px;
+}
+
+#leftPanel4 {
+	height:730px;	
+}
+
+#rightPanel5 {
+	float: right;
+	height:460px;
+	padding: 20px;
+}
+
+#leftPanel5 {
+	height:460px;	
+
 .articleTable td{
 	padding:5px;
 	border-style: solid;
@@ -601,6 +620,12 @@ body {
 	padding-left: 20px;
 }
 
+.watch2 {
+	padding-left: 20px;
+	padding-top: 40px;
+}
+
+
 .imgcomp3 {
 	padding-left: 100px;
 }
@@ -612,3 +637,13 @@ body {
 .holoimg {
 	padding-top: 0px;
 	padding-left: 0px;
+}
+
+.comp4img {
+	padding-left:80px;
+}
+
+.comp4ded {
+	padding-left:50px;
+	text-align: center;
+}
