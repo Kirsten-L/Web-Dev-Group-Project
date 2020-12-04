@@ -595,6 +595,7 @@ body {
 
 #leftPanel5 {
 	height:460px;	
+}
 
 .articleTable td{
 	padding:5px;
@@ -647,3 +648,8 @@ body {
 	padding-left:50px;
 	text-align: center;
 }
+
+.events1 {
+	color:#37D7F6;
+}
+
