@@ -34,7 +34,7 @@
 	width: 25%;
 	float: left;
 	font-family: "Source Sans Pro";
-	color: #A5A5A5;
+	color: #000000;
 	line-height: 24px;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -52,7 +52,7 @@
 }
 .container .columns h4 {
 	text-align: center;
-	color: #01B2D1;
+	color: #37D7F6;
 }
 .primary_header {
 	width: 100%;
